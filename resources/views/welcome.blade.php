@@ -1,0 +1,8 @@
+@extends("layouts.master")
+
+@section("contenu")
+<div class="my-3 p-3 bg-body rounded shadow-sm">
+    <h1 class="border-bottom pb-2 mb-4">Bienvenue dans notre formation</h1>
+
+</div>
+@endsection
